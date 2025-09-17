@@ -1,3 +1,5 @@
+[Leia em português](README-ptbr.md) 
+
 # 🤖 economIA: Your Personal Economics Guru
 
 Tired of searching through endless, disorganized notes right before an exam? Frustrated with generic AI answers that have clearly never suffered through a Macroeconomics lecture?
