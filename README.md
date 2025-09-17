@@ -1,10 +1,10 @@
 [Leia em português](README-ptbr.md) 
 
-# 🤖 economIA: Your Personal Economics Guru
+# 🤖 AIconomy: Your Personal Economics Guru
 
 Tired of searching through endless, disorganized notes right before an exam? Frustrated with generic AI answers that have clearly never suffered through a Macroeconomics lecture?
 
-**Fear not!** I present **economIA**, an AI agent that has been force-fed my actual university notes. This isn't just any AI; this is an AI with a degree in progress, specializing in surviving Economics 101.
+**Fear not!** I present **AIconomy**, an AI agent that has been force-fed my actual university notes. This isn't just any AI; this is an AI with a degree in progress, specializing in surviving Economics 101.
 
 ## The Problem: Data Chaos vs. The Final Exam
 
@@ -12,7 +12,7 @@ Let's be real, our notes are a mess. They're a chaotic treasure trove of vital i
 
 ## The Solution: An AI That Does the Reading For You!
 
-The **economIA** agent brilliantly solves this problem. By using a technique called Retrieval-Augmented Generation (RAG), it transforms that chaotic pile of `.txt` files into a searchable, intelligent knowledge base.
+The **AIconomy** agent brilliantly solves this problem. By using a technique called Retrieval-Augmented Generation (RAG), it transforms that chaotic pile of `.txt` files into a searchable, intelligent knowledge base.
 
 **How it helps you study:**
 * **Precision Answers**: Ask a specific question like "What was the deal with Mercantilism?" and get an answer based *only* on what the professor taught (and what I managed to write down). No more weird, unrelated facts from the internet!
