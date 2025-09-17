@@ -1,0 +1,630 @@
+ECONOMIA POLÍTICA: UMA INTRODUÇÃO ABRANGENTE
+
+1. O QUE É ECONOMIA POLÍTICA?
+
+A Economia Política é um ramo das ciências sociais que estuda as relações de produção, troca, distribuição e consumo de bens e serviços em seu contexto social, político e histórico. Diferente da "Economia" puramente teórica, a Economia Política enfatiza que a atividade econômica não ocorre em um vácuo, mas está intrinsecamente ligada às relações de poder, às instituições, às leis e à ideologia de uma sociedade. Seu objeto principal é entender como as decisões econômicas afetam e são afetadas pela distribuição de poder e riqueza entre diferentes grupos e classes sociais, e como o Estado interfere nesse processo.
+
+2. QUESTÕES FUNDAMENTAIS
+
+As questões centrais que a Economia Política busca responder são:
+O que produzir? Como uma sociedade decide quais bens e serviços são prioritários.
+Como produzir? Quais tecnologias e formas de organização do trabalho são utilizadas.
+Para quem produzir? Como a riqueza e a renda geradas na produção são distribuídas entre a população.
+
+3. PRINCIPAIS ESCOLAS DE PENSAMENTO
+
+A história da Economia Política é marcada por diferentes correntes de pensamento que oferecem distintas explicações sobre o funcionamento da economia e o papel do Estado.
+
+a) Mercantilismo (Séculos XVI XVIII):
+Foco no acúmulo de metais preciosos (ouro e prata) como fonte de riqueza nacional.
+Defesa de um Estado forte e interventor, que deveria promover as exportações e restringir as importações para manter uma balança comercial favorável.
+A riqueza era vista como um jogo de soma zero: o ganho de uma nação representava a perda de outra.
+
+b) Fisiocracia (Século XVIII):
+Primeira escola a conceber a economia como um sistema integrado, governado por uma "ordem natural".
+A terra era considerada a única fonte de riqueza ("produit net" ou produto líquido). A agricultura era a atividade mais importante.
+Defendiam o "Laissez faire, laissez passer" (Deixai fazer, deixai passar), pregando a não intervenção do Estado na economia.
+
+c) Economia Política Clássica (Séculos XVIII XIX):
+Adam Smith: Considerado o "pai" da economia moderna. Em "A Riqueza das Nações", argumentou que o trabalho era a verdadeira fonte de riqueza e que o mercado, guiado por uma "mão invisível", alocaria os recursos de forma eficiente através do interesse próprio dos indivíduos.
+David Ricardo: Desenvolveu a teoria das vantagens comparativas, defendendo o livre comércio internacional. Também formulou a teoria do valor trabalho, afirmando que o valor de uma mercadoria é determinado pela quantidade de trabalho necessária para produzi la.
+John Stuart Mill: Sistematizou o pensamento clássico, mas também abriu espaço para reformas sociais, distinguindo as "leis da produção" (naturais e imutáveis) das "leis da distribuição" (humanas e passíveis de mudança).
+
+d) Crítica Marxista (Século XIX):
+Karl Marx: Realizou uma profunda crítica ao capitalismo. Para Marx, o sistema capitalista é baseado na exploração da força de trabalho.
+Mais Valia: A diferença entre o valor criado pelo trabalhador e o salário que ele recebe. Essa diferença seria apropriada pelo capitalista, sendo a fonte do lucro.
+Luta de Classes: A história das sociedades seria a história da luta entre a classe dominante (burguesia, detentora dos meios de produção) e a classe explorada (proletariado).
+Defendia que as contradições inerentes ao capitalismo levariam à sua superação por um sistema socialista.
+
+4. TEMAS CONTEMPORÂNEOS
+
+A Economia Política moderna aborda uma vasta gama de temas, incluindo:
+Globalização: O impacto da integração dos mercados mundiais sobre os Estados nação, o trabalho e a desigualdade.
+Desenvolvimento e Subdesenvolvimento: As causas da disparidade de riqueza entre as nações.
+Estado de Bem Estar Social: O papel do Estado na provisão de serviços públicos como saúde, educação e seguridade social.
+Crises Econômicas: A análise das causas e consequências das crises financeiras e recessões.
+Meio Ambiente: A relação entre os modelos de produção econômica e a sustentabilidade ambiental.
+
+5. CONCLUSÃO
+
+A Economia Política oferece ferramentas críticas para compreender que a economia é um campo de disputas e escolhas sociais, e não apenas um conjunto de leis técnicas e neutras. Ela nos permite analisar quem ganha e quem perde com determinadas políticas econômicas e como a estrutura de poder de uma sociedade molda seu sistema econômico.
+
+No século XVIII,um grupo de pensadores franceses, conhecidos como fisiocratas, emergiu com uma visão revolucionária para sua época: a de que a atividade econômica era regida por uma "ordem natural e providencial". Liderados por François Quesnay, eles acreditavam que as leis econômicas eram tão previsíveis e harmônicas quanto as leis da física, desde que os homens não as perturbassem. Essa concepção fundamental não apenas se chocou frontalmente com o paradigma mercantilista então dominante, como também lançou as bases intelectuais para o surgimento da escola clássica, tornando a Fisiocracia uma crucial ponte na história do pensamento econômico.
+
+A oposição da Fisiocracia ao Mercantilismo é profunda e abrange a própria essência do que gera riqueza para uma nação.Os mercantilistas, em sua prática, equiparavam riqueza ao acúmulo de metais preciosos, defendendo uma balança comercial superavitária obtida por meio de intensa intervenção estatal, protecionismo e colonialismo. Nessa visão, o comércio era um jogo de soma zero. Os fisiocratas, por outro lado, argumentavam que a verdadeira riqueza não estava no ouro, mas na produção, especificamente na capacidade da agricultura de gerar um "produto líquido" (excedente). Para eles, o comércio e a indústria eram atividades "estéreis", pois apenas transformavam ou circulavam a riqueza, sem criá-la. Consequentemente, se os mercantilistas pregavam o controle estatal, os fisiocratas cunharam o célebre lema "Laissez-faire, laissez-passer" ("deixai fazer, deixai passar"), defendendo que o Estado deveria apenas garantir a propriedade privada e a segurança, abstendo-se de intervir na harmonia da ordem natural.
+
+É precisamente nessa defesa da não-intervenção e na crença em leis naturais autorreguladas que reside a profunda aproximação com a escola clássica. Adam Smith, que conheceu os fisiocratas, absorveu e transformou seu conceito de "ordem natural" na famosa "mão invisível", segundo a qual os indivíduos, ao buscarem seu interesse próprio, promovem involuntariamente o bem comum. A Fisiocracia forneceu o arcabouço intelectual do laissez-faire, pilar central do liberalismo clássico. Além disso, embora os clássicos tenham rejeitado a ideia de que apenas a agricultura era produtiva, eles expandiram o insight fisiocrata ao identificar o trabalho em todas as suas formas como a verdadeira fonte de valor e riqueza das nações. Por fim, o Tableau Économique de Quesnay, uma tentativa pioneira de mapear o fluxo circular da renda, foi um precursor direto das análises macroeconômicas clássicas sobre produção, distribuição e acumulação de capital.
+
+Portanto,a crença fisiocrata em uma ordem natural e providencial posicionou-os como os grandes críticos do mercantilismo, ao substituir a busca pelo ouro pela ênfase na produção e o intervencionismo estatal pela liberdade econômica. Simultaneamente, essa mesma crença os tornou os precursores diretos da escola clássica. Ao defenderem que a economia era governada por leis naturais que promoviam o equilíbrio e a harmonia, os fisiocratas não apenas desmantelaram as premissas mercantilistas, mas também plantaram a semente do liberalismo econômico. Eles foram, assim, os arquitetos de uma transição fundamental, construindo a ponte conceptual entre a rigidez estatal do mercantilismo e o florescimento científico do pensamento clássico.
+
+A ideia de uma "ordem natural" opõe-se ao mercantilismo porque:
+
+1. Fonte da Riqueza: Contra o acúmulo de metais (mercantilismo), os fisiocratas defendiam que a riqueza real vem da produção agrícola (o "produto líquido").
+
+2. Papel do Estado: Rejeitavam o intervencionismo estatal mercantilista e defendiam laissez-faire ("deixai fazer"), confiando na auto regulação natural.
+
+3. Visão Econômica: Questionavam a visão de soma zero do mercantilismo, propondo uma harmonia de interesses via ordem natural.
+
+Approxima-se da escola clássica porque:
+
+1. Precursor do Liberalismo: O laissez-faire fisiocrata é a base do liberalismo econômico clássico.
+
+2. Lei Natural → Mão Invisível: A "ordem natural" foi diretamente adaptada por Adam Smith em seu conceito de "mão invisível".
+
+3. Ênfase na Produção: Ambos focam na produção (e não na troca) como fonte de riqueza, embora os clássicos tenham expandido isso para além da agricultura.
+
+A Fisiocracia foi a ponte que rejeitou o controle estatal mercantilista e introduziu a crença em leis naturais de mercado, que se tornou o cerne do pensamento clássico.
+
+Ciencia Economica: Conceito e Objeto
+
+A Ciencia Economica, ou simplesmente Economia, e uma ciencia social que estuda como os individuos, empresas, governos e outras organizacoes na sociedade tomam decisoes sobre a alocacao de recursos escassos para satisfazer suas necessidades e desejos, que sao virtualmente ilimitados.
+
+Em sua essencia, a Economia analisa a producao, a distribuicao e o consumo de bens e servicos. O termo "economia" tem origem nas palavras gregas "oikos" (casa) and "nomos" (norma, lei), significando "administracao da casa" ou "regras do lar", refletindo a ideia fundamental de gerenciar recursos limitados.
+
+Ela se divide em duas grandes areas principais:
+1.  Microeconomia: Foca no comportamento de agentes economicos individuais, como familias e empresas, e em como eles interagem em mercados especificos.
+2.  Macroeconomia: Analisa a economia como um todo, estudando agregados como o Produto Interno Bruto (PIB), a inflacao, o desemprego e o crescimento economico.
+
+Objeto de Estudo:
+
+O objeto central da Ciencia Economica e a escassez. A escassez e o problema economico fundamental que surge porque os recursos (como trabalho, capital, terra e materias-primas) sao finitos, enquanto as necessidades e desejos humanos sao infinitos.
+
+Devido a escassez, as sociedades sao forcadas a fazer escolhas. Portanto, a Economia e frequentemente descrita como a "ciencia da escolha". O estudo economico busca responder a tres perguntas fundamentais que derivam do problema da escassez:
+
+1.  O que produzir? Quais bens e servicos devem ser produzidos e em que quantidades, dado que nao e possivel produzir tudo o que a sociedade deseja.
+2.  Como produzir? Quais recursos e tecnologias devem ser utilizados na producao dos bens e servicos escolhidos.
+3.  Para quem produzir? Como a producao sera distribuida entre os diferentes membros da sociedade.
+
+Dessa forma, o objeto da Economia e o estudo de como as sociedades administram seus recursos limitados para produzir bens e servicos e distribui-los entre as pessoas para consumo.
+
+Origens da Economia Politica Classica
+
+A Economia Politica Classica e considerada a primeira escola moderna do pensamento economico. Ela floresceu entre o final do seculo XVIII e meados do seculo XIX, em um periodo de profundas transformacoes sociais, politicas e tecnologicas, como o Iluminismo e a Revolucao Industrial. Seus pensadores buscaram entender as leis que governavam a producao, a distribuicao e o crescimento da riqueza em uma economia de mercado emergente.
+
+Contexto Historico e Filosofico:
+
+1.  O Iluminismo: A escola classica foi fortemente influenciada pelos ideais iluministas, que valorizavam a razao, a ordem natural e os direitos individuais. Os economistas classicos acreditavam que, assim como o universo fisico, a economia era regida por leis naturais que poderiam ser descobertas pela investigacao cientifica.
+
+2.  Critica ao Mercantilismo: A Economia Classica surgiu como uma reacao direta as politicas mercantilistas, que dominavam a Europa desde o seculo XVI. O Mercantilismo defendia o protecionismo, o controle estatal e a ideia de que a riqueza de uma nacao se media pelo acumulo de metais preciosos (ouro e prata). Os classicos, ao contrario, argumentavam que a riqueza provinha da producao de bens e servicos.
+
+3.  A Revolucao Industrial: O advento da industrializacao na Gra-Bretanha criou um novo cenario economico. O crescimento das fabricas, a urbanizacao e o surgimento de novas classes sociais (burguesia industrial e proletariado) demandavam uma nova forma de analisar a economia, focada na producao, no capital e no trabalho.
+
+Principais Pensadores e Suas Ideias:
+
+1.  Adam Smith (1723-1790): Considerado o "pai" da Economia moderna, sua obra "A Riqueza das Nacoes" (1776) e o marco fundador da escola classica. Suas principais contribuicoes incluem:
+    Divisao do Trabalho: Argumentou que a especializacao das tarefas era a principal fonte de aumento da produtividade e, consequentemente, da riqueza.
+    A "Mao Invisivel": Conceito central de que, ao buscarem seus proprios interesses em um mercado livre, os individuos sao levados por uma "mao invisivel" a promover o bem-estar geral da sociedade, de forma mais eficiente do que qualquer planejamento central.
+    Laissez-Faire ("Deixai fazer"): Defesa da minima intervencao do Estado na economia. Para Smith, o papel do governo deveria se limitar a garantir a defesa, a justica e a manutencao de certas obras publicas.
+    Teoria do Valor-Trabalho: Sugeriu que o valor de uma mercadoria estava relacionado a quantidade de trabalho necessaria para produzi-la.
+
+2.  David Ricardo (1772-1823): Desenvolveu e sistematizou muitas das ideias de Smith. Em "Principios de Economia Politica e Tributacao" (1817), ele aprofundou a analise sobre:
+    Teoria da Renda da Terra: Explicou como a renda da terra era gerada e distribuida, baseando-se na fertilidade diferencial dos solos.
+    Teoria das Vantagens Comparativas: Demonstrou que o livre-comercio beneficia todos os paises, mesmo que um deles seja mais produtivo em todos os bens, desde que cada nacao se especialize na producao daquilo em que tem um custo de oportunidade menor.
+    Distribuicao de Renda: Focou em como a riqueza produzida era dividida entre as tres classes sociais principais: salarios (trabalhadores), lucros (capitalistas) e alugueis (proprietarios de terras).
+
+3.  Thomas Malthus (1766-1834): Conhecido por sua visao pessimista em "Ensaio sobre o Principio da Populacao" (1798). Ele argumentava que a populacao tendia a crescer em progressao geometrica, enquanto a producao de alimentos crescia em progressao aritmetica, o que levaria a crises de fome e miseria, limitando o progresso economico.
+
+4.  John Stuart Mill (1806-1873): Considerado um dos ultimos grandes economistas classicos, Mill sintetizou e refinou as ideias de seus predecessores em sua obra "Principios de Economia Politica" (1848). Ele fez uma distincao importante entre as leis da producao (que considerava naturais e imutaveis) e as leis da distribuicao (que via como socialmente determinadas e, portanto, passiveis de reforma).
+
+A Economia Politica Classica estabeleceu os fundamentos da ciencia economica, introduzindo conceitos como a soberania do mercado, a importancia da producao, o livre-comercio e a analise sistematica da distribuicao de renda. Embora muitas de suas teorias tenham sido revisadas ou substituidas por escolas posteriores, seu legado continua a influenciar profundamente o pensamento economico e o debate sobre o papel do Estado e do mercado na sociedade.
+
+Principais Categorias Analiticas: Trabalho, Sociedade e Valor como objeto da economia politica
+
+A Economia Politica Classica, notadamente em pensadores como Adam Smith e David Ricardo, fundamentou sua analise da economia capitalista emergente sobre tres pilares conceituais interligados: o Trabalho, a Sociedade e o Valor. Essas categorias nao eram vistas como elementos isolados, mas como partes de um sistema dinamico para entender a criacao e a distribuicao da riqueza. O objeto da economia politica era, portanto, desvendar as leis sociais que governavam esse sistema.
+
+1. Trabalho como Fundamento do Valor
+
+Para os classicos, o trabalho humano era a categoria central e a verdadeira fonte de toda a riqueza. Essa ideia foi formalizada na Teoria do Valor-Trabalho.
+
+- Substancia do Valor: A teoria postula que o valor economico de uma mercadoria e determinado pela quantidade de trabalho socialmente necessario para produzi-la. O trabalho nao era apenas uma atividade produtiva, mas a propria substancia que tornava as mercadorias comparaveis e trocaveis entre si.
+
+- Medida do Valor: Adam Smith argumentou que o "preco real" de qualquer coisa e o esforco e a dificuldade de adquiri-la. Assim, a quantidade de trabalho incorporada em um bem servia como a medida fundamental de seu valor. David Ricardo aprofundou essa nocao, tornando-a a pedra angular de seu sistema analitico para explicar os precos relativos das mercadorias.
+
+2. A Sociedade e a Divisao de Classes
+
+A Economia Politica Classica nao analisava a economia em um vacuo social. Pelo contrario, seu ponto de partida era uma sociedade ja estruturada em classes distintas, cujas relacoes definiam a dinamica economica.
+
+- Estrutura Social: A sociedade era entendida como dividida em tres grandes classes, cada uma recebendo uma forma especifica de rendimento: os trabalhadores (salarios), os capitalistas (lucros) e os proprietarios de terras (alugueis).
+
+- Objeto de Analise: O foco principal, especialmente para Ricardo, era entender como o produto social (a riqueza gerada pelo trabalho) era distribuido entre essas tres classes. Os conflitos e interesses inerentes a essa distribuicao – por exemplo, o conflito entre lucros e salarios – eram centrais para a analise economica. A economia era, em essencia, o estudo das leis que regulavam essa distribuicao social.
+
+3. O Valor como Objeto da Troca
+
+O conceito de valor foi desdobrado para explicar o funcionamento dos mercados. Os classicos fizeram uma distincao crucial que permitiu focar na logica economica das trocas.
+
+- Valor de Uso vs. Valor de Troca:
+  - Valor de Uso: Refere-se a utilidade de um objeto, sua capacidade de satisfazer uma necessidade ou desejo humano. E uma propriedade qualitativa. Por exemplo, o valor de uso da agua e saciar a sede.
+  - Valor de Troca: Refere-se a capacidade de uma mercadoria ser trocada por outras. E uma propriedade quantitativa. No famoso paradoxo da agua e do diamante, Smith nota que a agua, apesar de seu imenso valor de uso, tem baixo valor de troca, enquanto o diamante, de pouca utilidade pratica, tem um alto valor de troca.
+
+- Foco no Valor de Troca: A Economia Politica se concentrou no valor de troca como seu verdadeiro objeto de investigacao. O objetivo era descobrir o que regulava as proporcoes nas quais as mercadorias eram trocadas. A resposta encontrada foi o trabalho, conectando, assim, o conceito de valor diretamente a atividade produtiva humana.
+
+Conclusao
+
+Em sintese, para a Economia Politica Classica, o objeto de estudo nao era a decisao de um individuo isolado, mas as relacoes sociais de producao e distribuicao. O Trabalho era a fonte da riqueza; a Sociedade, dividida em classes, era o palco onde essa riqueza era distribuida; e o Valor de Troca era a expressao quantitativa dessa riqueza no mercado, determinada em ultima instancia pela quantidade de trabalho. Essas tres categorias formam o nucleo analitico que permitiu aos classicos construir a primeira grande critica sistematica do modo de producao capitalista.
+
+A Fase Pre-Cientifica da Economia
+
+Antes de se consolidar como uma ciencia autonoma com metodos e objetos de estudo proprios, o pensamento sobre fenomenos economicos passou por uma longa fase pre-cientifica. Este periodo, que se estende da Antiguidade Classica ate o final da Idade Media e o inicio do Mercantilismo, caracteriza-se pela ausencia de uma analise economica sistematica. As questoes economicas eram tratadas de forma fragmentada e subordinada a outras areas do conhecimento, como a filosofia, a etica, a politica e a teologia.
+
+Antiguidade Grega
+
+Na Grecia Antiga, as primeiras reflexoes sobre economia surgiram no ambito da filosofia e da administracao domestica. Nao havia uma preocupacao em entender a economia como um sistema.
+
+- Xenofonte (c. 430-354 a.C.): Em sua obra "Oeconomicus", ele discute a administracao eficiente do lar agricola (oikos). A economia era vista como a arte de gerir a casa e a propriedade rural para garantir a autossuficiencia.
+
+- Platao (c. 428-348 a.C.): Em "A Republica", aborda a divisao do trabalho como base para a organizacao da cidade-estado (Polis), mas sua analise tinha um objetivo primariamente politico e social, visando a construcao de um Estado ideal.
+
+- Aristoteles (384-322 a.C.): Foi quem mais avancou na analise economica. Ele distinguiu "economia" (administracao do lar) de "crematistica" (a arte de adquirir riqueza). Aristoteles considerava a crematistica natural (ligada a satisfacao de necessidades) como legitima, mas condenava a crematistica nao natural, que visava ao lucro ilimitado atraves do comercio e do emprestimo a juros (usura). Ele tambem analisou a funcao da moeda e fez a distincao entre valor de uso e valor de troca, ideias que seriam centrais para os economistas classicos seculos depois. A abordagem aristotelica era fundamentalmente etica, preocupada com a justica nas trocas.
+
+Idade Media e o Pensamento Escolastico
+
+Durante a Idade Media, o pensamento economico foi dominado pela Igreja Catolica e pela filosofia escolastica, que buscava conciliar a fe crista com a razao. As questoes economicas eram analisadas sob a otica da moral e da justica divina.
+
+- Tomas de Aquino (1225-1274): A figura central deste periodo, Aquino integrou o pensamento de Aristoteles a teologia crista. Suas principais contribuicoes foram as nocoes de "justo preco" e a condenacao da "usura".
+  - Justo Preco: O preco de uma mercadoria deveria ser justo, cobrindo os custos de producao do artesao (trabalho e despesas) e permitindo-lhe manter sua posicao na sociedade. O lucro excessivo era visto como avareza, um pecado.
+  - Condenacao da Usura: A cobranca de juros sobre emprestimos era severamente condenada. Argumentava-se que o emprestimo era um ato de caridade e que o dinheiro, por ser esteril, nao poderia gerar mais dinheiro. Cobrar juros era visto como vender o tempo, que pertence somente a Deus.
+
+O Mercantilismo como Fase de Transicao
+
+O Mercantilismo, que se desenvolveu entre os seculos XV e XVIII, representa uma importante transicao do pensamento pre-cientifico para a ciencia economica. Embora ainda nao fosse uma escola de pensamento com uma teoria unificada, ele deslocou o foco da analise.
+
+- Foco na Nacao: A preocupacao deixou de ser a etica individual ou a salvacao da alma para se tornar o enriquecimento e o fortalecimento do Estado-nacao.
+- Riqueza e Poder: A riqueza de uma nacao era medida pelo seu acumulo de metais preciosos (ouro e prata), uma politica conhecida como metalismo ou bulionismo.
+- Pragmatismo Politico: O Mercantilismo foi um conjunto de politicas e praticas economicas, como o protecionismo, a busca por uma balanca comercial favoravel (exportar mais e importar menos) e a exploracao de colonias. Os escritos mercantilistas eram, em geral, pareceres de comerciantes e conselheiros de governantes, focados em solucoes praticas para aumentar o poder do rei.
+
+Apesar de sua abordagem pragmatica e, por vezes, assistematica, o Mercantilismo foi fundamental porque comecou a tratar a economia como uma esfera de analise distinta, com objetivos proprios, abrindo caminho para que os Fisiocratas e, posteriormente, Adam Smith estabelecessem a Economia como uma ciencia social autonoma.
+
+Mercantilismo
+
+O Mercantilismo foi o conjunto de ideias e praticas economicas que dominou o pensamento europeu entre os seculos XV e XVIII, durante a Idade Moderna. Nao era uma teoria economica formal e unificada, mas sim um conjunto de politicas adotadas pelos Estados Nacionais Absolutistas (como Portugal, Espanha, Franca, Inglaterra e Holanda) com o objetivo central de fortalecer o Estado e enriquecer a nacao. O Mercantilismo marcou a transicao do feudalismo para o capitalismo comercial.
+
+Principais Caracteristicas e Objetivos
+
+A logica mercantilista girava em torno da ideia de que a economia mundial era um "jogo de soma zero", ou seja, a riqueza era finita e um pais so poderia enriquecer as custas do empobrecimento de outro. Para acumular riqueza e poder, os Estados adotaram as seguintes praticas:
+
+1. Metalismo (ou Bulionismo)
+A principal medida de riqueza de uma nacao era a quantidade de metais preciosos (ouro e prata) que ela possuia em seus cofres. Acumular esses metais era o objetivo primordial da politica economica. Essa crença levou a uma intensa busca por minas nas colonias e a politicas para evitar a saida de moedas do pais.
+
+2. Balanca Comercial Favoravel
+Para garantir o acumulo de metais, era essencial que o valor das exportacoes superasse o das importacoes. Vender mais para o exterior do que se comprava garantia um saldo positivo, que era pago em ouro e prata, aumentando as reservas do pais.
+
+3. Protecionismo Alfandegario
+Para atingir uma balanca comercial favoravel e proteger a producao interna, os governos impunham altas taxas de importacao sobre produtos estrangeiros. Isso tornava os produtos importados mais caros, desestimulando seu consumo e incentivando a compra de produtos nacionais.
+
+4. Intervencionismo Estatal
+O Estado tinha um papel central e ativo na economia. O rei e seus ministros controlavam a producao, definiam precos, criavam monopolios, concediam privilegios a companhias de comercio e regulamentavam todo o sistema economico para garantir que os interesses nacionais (ou seja, os interesses do Estado) fossem atendidos.
+
+5. Colonialismo e o Pacto Colonial
+A conquista e a exploracao de colonias eram ferramentas fundamentais do Mercantilismo. As colonias serviam a um duplo proposito: fornecer materias-primas baratas e metais preciosos para a metropole e funcionar como um mercado consumidor exclusivo para os produtos manufaturados da metropole. Essa relacao de exclusividade era conhecida como Pacto Colonial.
+
+Tipos de Mercantilismo
+
+Embora as caracteristicas gerais fossem comuns, cada nacao adaptou o Mercantilismo as suas condicoes especificas, dando origem a diferentes modelos:
+
+- Metalismo ou Bulionismo (Espanha e Portugal): O foco principal era a acumulacao direta de ouro e prata extraidos de suas vastas colonias na America. Houve pouco incentivo ao desenvolvimento de manufaturas internas.
+
+- Colbertismo ou Mercantilismo Industrial (Franca): Implementado por Jean-Baptiste Colbert, ministro do rei Luis XIV, este modelo focava no desenvolvimento de manufaturas internas, especialmente de artigos de luxo (tecidos, perfumes, porcelanas). O objetivo era exportar esses produtos de alto valor para atrair metais preciosos.
+
+- Comercialismo (Inglaterra e Holanda): Com marinhas poderosas e poucas colonias ricas em metais no inicio, esses paises focaram no controle do comercio maritimo. Eles lucravam com o transporte e a revenda de mercadorias de outras nacoes, acumulando riqueza atraves do frete e da intermediacao comercial. O fortalecimento de sua frota naval e de companhias de comercio, como a Companhia das Indias Orientais, foi central.
+
+Declino do Mercantilismo
+
+A partir do seculo XVIII, o Mercantilismo comecou a ser duramente criticado por novas correntes de pensamento, como os Fisiocratas e, principalmente, por Adam Smith e os economistas classicos. Eles argumentavam que a riqueza de uma nacao nao vinha do acumulo de metais, mas sim de sua capacidade produtiva (trabalho). Defendiam o livre-comercio e a nao intervencao do Estado na economia (laissez-faire), ideias que foram fundamentais para a ascensao do capitalismo industrial e o declinio das praticas mercantilistas.
+
+Fisiocracia no limiar do capitalismo
+
+A Fisiocracia foi a primeira escola de pensamento economico a aplicar um metodo cientifico a analise da economia. Surgiu na Franca em meados do seculo XVIII, em um periodo de declinio do absolutismo e de critica ao Mercantilismo. Liderados pelo medico e economista Francois Quesnay, os fisiocratas propuseram um sistema teorico coeso que, apesar de focado na agricultura, estabeleceu conceitos fundamentais que colocaram a Economia no limiar do capitalismo e influenciaram diretamente Adam Smith e a Escola Classica. O termo "fisiocracia" significa "governo da natureza".
+
+Contexto: A Critica ao Mercantilismo
+
+A Fisiocracia nasceu como uma reacao direta ao Colbertismo, a versao francesa do Mercantilismo. Os fisiocratas criticavam duramente a excessiva regulamentacao estatal da economia, os altos impostos sobre os agricultores e a crenca mercantilista de que a riqueza consistia no acumulo de metais preciosos ou no lucro comercial. Para eles, essas politicas sufocavam a verdadeira fonte de riqueza e prosperidade da nacao.
+
+Principais Ideias e Conceitos
+
+1. A Ordem Natural (Ordre Naturel)
+A ideia central da Fisiocracia e que a economia, assim como o mundo fisico, e governada por leis naturais, universais e imutaveis, estabelecidas por Deus para a felicidade dos homens. O papel do Estado nao era intervir ou regulamentar a economia, mas sim remover os obstaculos artificiais para que essa ordem natural pudesse funcionar livremente. A funcao do soberano era garantir a propriedade, a liberdade e a seguranca.
+
+2. A Terra como Unica Fonte de Riqueza (Produto Liquido)
+Esta e a doutrina mais distintiva dos fisiocratas. Eles argumentavam que toda a riqueza real se originava exclusivamente da terra (agricultura, mineracao, pesca). Apenas a terra tinha a capacidade de gerar um excedente real, que eles chamavam de "produit net" (produto liquido). Este era o valor da producao agricola que excedia todos os custos necessarios para produzi-la, incluindo a subsistencia dos agricultores e a reposicao do capital.
+
+3. As Tres Classes Sociais
+Com base na teoria do produto liquido, Quesnay dividiu a sociedade em tres classes funcionais:
+- A Classe Produtiva: Composta pelos agricultores e todos que trabalhavam diretamente com a terra. Era a unica classe que efetivamente criava riqueza (o produto liquido).
+- A Classe dos Proprietarios: Incluia o rei, os nobres e o clero, donos da terra. Eles nao produziam riqueza, mas se apropriavam do produto liquido na forma de aluguel da terra. Seu papel era o de prover os adiantamentos iniciais (capital) e governar.
+- A Classe Esteril: Formada por artesaos, comerciantes, manufatureiros e profissionais liberais. Para os fisiocratas, esta classe era "esteril" nao por ser inutil, mas porque seu trabalho apenas transformava ou transportava a materia-prima ja criada pela agricultura. O valor de seus produtos era exatamente igual a soma do custo da materia-prima e da sua propria subsistencia, nao gerando nenhum excedente novo.
+
+4. O Tableau Economique (Quadro Economico)
+Criado por Quesnay em 1758, foi uma das contribuicoes mais geniais da Fisiocracia. O quadro era um modelo grafico que representava o fluxo circular de bens e dinheiro entre as tres classes sociais. Ele demonstrava como o produto liquido, gerado pela agricultura, circulava por toda a economia, sustentando as outras classes, e como a economia se reproduzia anualmente. Foi o primeiro modelo macroeconomico da historia e um precursor das contas nacionais modernas.
+
+As Politicas Fisiocratas no Limiar do Capitalismo
+
+As propostas politicas dos fisiocratas foram revolucionarias e ajudaram a pavimentar o caminho para o liberalismo economico e o capitalismo:
+
+- Laissez-faire, laissez-passer: Esta famosa expressao, que significa "deixai fazer, deixai passar", resume sua politica economica. Eles defendiam a total liberdade de producao e de comercio, o fim dos monopolios, das corporacoes de oficio e das barreiras alfandegarias. A livre concorrencia levaria aos precos justos e a alocacao mais eficiente dos recursos, guiada pela ordem natural.
+
+- O Imposto Unico: Como a terra era a unica fonte do excedente (produto liquido), os fisiocratas argumentavam que todos os impostos deveriam ser abolidos e substituidos por um unico imposto, cobrado diretamente sobre a renda dos proprietarios de terras. Qualquer outro imposto acabaria, indiretamente, recaindo sobre a agricultura e desestimulando a producao.
+
+Apesar de seu erro em considerar a industria e o comercio como estereis, a Fisiocracia foi fundamental na transicao para o pensamento economico moderno. Ao tratar a economia como um sistema regido por leis, ao criar o primeiro modelo de fluxo circular de renda e ao defender o "laissez-faire", os fisiocratas romperam com o Mercantilismo e forneceram a Adam Smith e a Economia Classica a base intelectual sobre a qual o capitalismo seria analisado e defendido. Eles estavam, de fato, no limiar de uma nova era economica.
+
+A origem e o conceito de economia politica
+
+Origem do Termo e da Disciplina
+
+O termo "economia politica" foi cunhado pela primeira vez em 1615 pelo frances Antoine de Montchrestien em sua obra "Traite de l'economie politique" (Tratado de Economia Politica). A criacao do termo marcou uma evolucao fundamental no pensamento sobre a riqueza.
+
+A palavra "economia" tem origem no grego "oikonomia" (oikos, casa; nomos, lei ou administracao), que significava a administracao de um lar ou de uma propriedade agricola. Montchrestien adicionou o adjetivo "politica" (do grego "polis", cidade-estado) para elevar a discussao do nivel privado e domestico para o nivel publico, o da administracao da riqueza do Estado ou da nacao.
+
+Embora o termo tenha surgido no seculo XVII, a Economia Politica como um campo de estudo sistematico e coerente so se consolidou no seculo XVIII, com os Fisiocratas e, principalmente, com os economistas classicos britanicos, como Adam Smith, David Ricardo e John Stuart Mill. Ela nasceu da necessidade de compreender as leis que governavam a producao e a distribuicao da riqueza na nova sociedade capitalista que emergia das ruinas do feudalismo.
+
+Conceito de Economia Politica
+
+A Economia Politica e a ciencia que estuda as leis sociais da producao, distribuicao, troca e consumo de bens materiais nos diferentes estagios de desenvolvimento da sociedade humana. Seu conceito fundamental pode ser desdobrado em alguns pontos-chave:
+
+1. Foco na Producao e Distribuicao da Riqueza
+O objeto central da Economia Politica classica era entender como a riqueza era criada e, crucialmente, como ela era distribuida entre as diferentes classes sociais que compoem a sociedade (trabalhadores, capitalistas e proprietarios de terras). Nao se tratava apenas de uma questao de eficiencia, mas de uma analise das relacoes e conflitos entre esses grupos sociais.
+
+2. Carater Social e Historico
+A Economia Politica reconhece que os fenomenos economicos nao sao puramente naturais ou tecnicos, mas sim sociais. As relacoes de producao e distribuicao sao moldadas pela estrutura da sociedade, por suas instituicoes e pelo seu estagio de desenvolvimento historico. Ela nao buscava leis economicas universais e atemporais, mas sim as leis especificas que regiam a economia capitalista de sua epoca.
+
+3. A Ligacao Intrinseca com a Politica
+O adjetivo "politica" nao e acidental. Ele indica que a atividade economica esta inseparavelmente ligada ao Estado, as leis, ao poder e a estrutura social. A Economia Politica estuda como o Estado influencia a economia (atraves de impostos, regulamentacoes, etc.) e como as relacoes economicas influenciam a estrutura de poder da sociedade.
+
+Distincao com o Termo "Economia"
+
+A partir do final do seculo XIX, com a ascensao da escola neoclassica, o termo "Economia Politica" foi gradualmente substituido pelo termo "Economia" (em ingles, "economics"). Essa mudanca terminologica refletiu uma mudanca profunda no objeto e no metodo da disciplina:
+
+- A Economia (Neoclassica) passou a se definir como a ciencia que estuda o comportamento humano como uma relacao entre fins e meios escassos que tem usos alternativos. O foco deslocou-se da producao e da distribuicao entre classes sociais para a alocacao eficiente de recursos e as escolhas de agentes economicos individuais e racionais (o "homo economicus").
+
+- O novo enfoque buscou tornar a disciplina mais "cientifica", neutra e livre de juizos de valor, aproximando-a das ciencias naturais, com um uso intensivo da matematica e de modelos abstratos. Com isso, a dimensao social, politica e historica, que era central para a Economia Politica, foi em grande parte deixada de lado.
+
+Em resumo, a Economia Politica, em sua concepcao original, e a ciencia da riqueza em seu contexto social e estatal, preocupada com as leis de producao e distribuicao que moldam a sociedade.
+
+Adam Smith e a Teoria dos Sentimentos Morais (1759)
+
+Antes de se tornar mundialmente famoso como o autor de "A Riqueza das Nacoes", Adam Smith era um respeitado filosofo moral. Sua primeira grande obra, "A Teoria dos Sentimentos Morais", publicada em 1759, estabeleceu sua reputacao e forneceu a base etica e psicologica para todo o seu pensamento posterior, incluindo sua analise economica. Longe de ser um mero defensor do egoismo, nesta obra Smith investiga a origem da moralidade e a natureza da sociabilidade humana, argumentando que nossa capacidade de nos colocarmos no lugar do outro e a base da vida em sociedade.
+
+O Principio da Simpatia (Sympathy)
+
+O conceito central do livro e a "simpatia", que no sentido de Smith e mais proximo do que hoje chamamos de "empatia". Nao se trata de sentir pena, mas da nossa capacidade inata de imaginar e compartilhar os sentimentos dos outros. Smith argumenta que, ao observarmos as acoes e emocoes de outra pessoa, nos projetamos em sua situacao e imaginamos o que sentiriamos.
+
+Esse processo de simpatia mutua e a base dos nossos julgamentos morais:
+- Aprovacao e Desaprovacao: Aprovamos as acoes de alguem quando a emocao que sentimos por simpatia corresponde a emocao da pessoa que agiu. Desaprovamos quando ha uma dissonancia.
+- Natureza Social: Agradar os outros e ser digno de aprovacao sao desejos humanos fundamentais. Buscamos uma "mutua simpatia de sentimentos", o que nos motiva a moderar nossas paixoes para que os outros possam "simpatizar" conosco.
+
+O Espectador Imparcial
+
+Para explicar como desenvolvemos um senso de moralidade que vai alem da simples busca por aprovacao dos que nos cercam, Smith introduz o conceito do "espectador imparcial".
+
+- A Voz da Consciencia: O espectador imparcial e uma especie de juiz interior, um "homem dentro do peito". E a nossa consciencia. Aprendemos a julgar nossas proprias acoes nao apenas pela forma como os outros reagem, mas imaginando como um observador neutro, bem informado e imparcial as julgaria.
+
+- Autocontrole e Virtude: Para obter a aprovacao desse espectador imparcial, aprendemos a controlar nosso egoismo e a agir de acordo com regras de conduta que consideramos justas e apropriadas. E esse mecanismo que nos permite desenvolver virtudes como a prudencia, a justica e a benevolencia. A justica, em particular, e vista por Smith como o pilar principal que sustenta toda a sociedade; sem ela, o "imenso edificio da sociedade humana" desabaria.
+
+A Relacao com "A Riqueza das Nacoes" e o "Problema Adam Smith"
+
+Por muito tempo, estudiosos debateram o chamado "Problema Adam Smith": como conciliar o homem movido pela simpatia de "A Teoria dos Sentimentos Morais" com o homem movido pelo autointeresse (self-interest) de "A Riqueza das Nacoes" (1776)?
+
+A visao academica moderna, no entanto, rejeita em grande parte essa contradicao, vendo as duas obras como partes complementares de um unico e grandioso projeto filosofico:
+
+1. Esferas Diferentes da Acao Humana: Smith nao era ingenuo. Ele reconhecia que os seres humanos sao complexos. O autointeresse e um poderoso motivador, especialmente na esfera economica das trocas impessoais no mercado. A simpatia, por sua vez, opera mais fortemente nas nossas relacoes proximas (familia, amigos, comunidade), onde formamos nossos valores morais.
+
+2. A Moral como Pre-condicao para o Mercado: "A Teoria dos Sentimentos Morais" estabelece o arcabouco social e etico dentro do qual o mercado pode funcionar. O autointeresse de "A Riqueza das Nacoes" nao e um egoismo predatorio e sem limites. Ele e exercido por individuos que ja foram socializados e que possuem uma consciencia moral (o espectador imparcial). O mercado pressupoe um ambiente de confianca, justica e respeito as regras, qualidades que Smith analisou em sua primeira obra.
+
+"A Teoria dos Sentimentos Morais" revela um Adam Smith muito mais complexo do que o caricato "profeta do egoismo". A obra mostra que, para Smith, os seres humanos sao fundamentalmente criaturas sociais, cujas acoes economicas estao inseridas em um contexto de normas morais e relacoes de empatia. Ele entendia que uma sociedade de mercado so poderia prosperar se estivesse assentada sobre uma base solida de justica e virtude, originada na capacidade humana de simpatizar com o proximo.
+
+Adam Smith e A Riqueza das Nacoes (1776)
+
+Publicada em 1776, a obra "Uma Investigacao sobre a Natureza e as Causas da Riqueza das Nacoes", mais conhecida como "A Riqueza das Nacoes", e o trabalho mais famoso de Adam Smith e o documento fundador da ciencia economica moderna. Neste livro monumental, Smith rompeu com as ideias mercantilistas e fisiocratas dominantes, apresentando uma analise sistematica do funcionamento de uma economia de mercado e defendendo os principios do liberalismo economico que moldariam o mundo industrial emergente.
+
+As Fontes da Riqueza
+
+A tese central de Smith e revolucionaria para a epoca: a riqueza de uma nacao nao reside em seus estoques de ouro e prata (critica ao Mercantilismo), nem exclusivamente na produtividade da terra (critica a Fisiocracia), mas sim no trabalho anual de sua populacao. A prosperidade de um pais depende, portanto, de duas condicoes principais:
+
+1. A habilidade e a eficiencia com que o trabalho e empregado.
+2. A proporcao de trabalhadores uteis e produtivos em relacao ao total da populacao.
+
+Conceitos Fundamentais
+
+1. A Divisao do Trabalho
+Smith inicia sua obra argumentando que o maior aprimoramento na capacidade produtiva do trabalho vem da divisao de tarefas. Ele usa o celebre exemplo de uma fabrica de alfinetes para mostrar como a especializacao – dividir a producao em varias etapas simples e distintas, com cada trabalhador focado em uma unica tarefa – aumenta a produtividade de forma exponencial. Isso ocorre por tres razoes: o aumento da destreza de cada trabalhador, a economia de tempo que seria perdido ao mudar de tarefa, e a invencao de maquinas que facilitam o trabalho.
+
+2. O Autointeresse (Self-Interest) como Mola Propulsora
+Para Smith, a motivacao fundamental por tras da troca economica e o autointeresse. Em uma de suas passagens mais famosas, ele afirma: "Nao e da benevolencia do acougueiro, do cervejeiro ou do padeiro que esperamos o nosso jantar, mas da consideracao que eles tem pelos seus proprios interesses". Em uma economia de mercado, os individuos, ao buscarem satisfazer seus proprios desejos, acabam por produzir os bens e servicos que a sociedade necessita.
+
+3. A Mao Invisivel
+Este e talvez o conceito mais conhecido de Adam Smith. A "mao invisivel" e uma metafora para o mecanismo de mercado que, sem qualquer planejamento central, coordena as acoes de milhoes de individuos movidos por seus interesses particulares, resultando em um bem-estar geral para a sociedade que nao era parte de sua intencao original. Ao buscar o proprio lucro, o produtor e "levado por uma mao invisivel" a promover um fim que nao estava em seus planos: o interesse publico. A mao invisivel funciona atraves do sistema de precos, que sinaliza a escassez e a demanda, orientando a alocacao de recursos para onde eles sao mais necessarios.
+
+4. Laissez-Faire e o Papel Limitado do Estado
+Com base na ideia da mao invisivel, Smith se tornou o grande defensor do "laissez-faire", a doutrina da minima intervencao do Estado na economia. Ele acreditava que os mercados livres, sem regulamentacoes governamentais, produziriam os melhores resultados para a sociedade. O papel do governo deveria ser limitado a tres funcoes essenciais:
+- Defender a nacao contra agressoes externas (defesa).
+- Proteger os cidadaos da injustica e da opressao (justica).
+- Criar e manter certas obras e instituicoes publicas que nao seriam lucrativas para individuos ou empresas privadas, como estradas, pontes e a educacao basica.
+
+5. O Livre-Comercio
+Smith foi um critico ferrenho do protecionismo mercantilista e um defensor apaixonado do livre-comercio entre as nacoes. Ele argumentava que, se um pais estrangeiro pode nos fornecer uma mercadoria mais barata do que nos mesmos podemos produzi-la, e melhor compra-la deles com uma parte do produto de nossa propria industria, empregada de uma forma em que tenhamos alguma vantagem (principio da vantagem absoluta).
+
+"A Riqueza das Nacoes" nao foi apenas um livro sobre economia; foi uma declaracao politica e filosofica que forneceu a justificativa intelectual para a ascensao do capitalismo industrial e do liberalismo. Ao descrever a logica do mercado e defender a liberdade economica como o caminho para a prosperidade, Adam Smith estabeleceu os pilares do pensamento economico classico e continua a ser uma das figuras mais influentes no debate sobre economia e sociedade ate hoje.
+
+Adam Smith e a Teoria do Valor-Trabalho
+
+A investigacao sobre o que determina o valor das mercadorias foi uma das questoes centrais para Adam Smith em "A Riqueza das Nacoes". Sua analise, conhecida como a Teoria do Valor-Trabalho, e um dos pontos mais complexos e debatidos de sua obra. Embora ele tenha estabelecido o trabalho como a medida fundamental do valor, sua formulacao e ambigua, contendo duas versoes da teoria e, em ultima instancia, abrindo mao dela para explicar os precos em uma economia capitalista avancada.
+
+Valor de Uso e Valor de Troca: O Paradoxo da Agua e do Diamante
+
+Smith comeca sua analise distinguindo dois significados para a palavra "valor":
+
+1. Valor de Uso: Refere-se a utilidade de um objeto, sua capacidade de satisfazer uma necessidade.
+2. Valor de Troca: Refere-se a capacidade que um bem possui de ser trocado por outros bens.
+
+Para ilustrar essa distincao, ele apresenta o famoso paradoxo: a agua tem um imenso valor de uso, pois e essencial a vida, mas quase nenhum valor de troca. O diamante, por outro lado, tem pouquissimo valor de uso, mas um enorme valor de troca. A questao que interessava a Smith, como economista, era descobrir qual a "medida real" do valor de troca.
+
+O Trabalho como Medida Real do Valor
+
+Smith conclui que a medida real e universal do valor de troca de qualquer mercadoria e o trabalho. Ele argumenta que o "preco real" de qualquer coisa e o esforco e a dificuldade (toil and trouble) necessarios para adquiri-la. O que compramos com dinheiro ou com bens, na verdade, estamos comprando com o nosso trabalho. Portanto, o trabalho foi o primeiro preco, a moeda de troca original paga por todas as coisas.
+
+A partir dai, Smith desenvolve duas maneiras de entender essa relacao, que sao a fonte da ambiguidade em sua teoria:
+
+1. Teoria do Trabalho Incorporado (Labor Embodied)
+Esta e a versao mais direta da teoria. Ela se aplica a um "estado primitivo e rude da sociedade", anterior a acumulacao de capital e a apropriacao da terra. Nesse estagio, o valor de troca de uma mercadoria seria determinado unicamente pela quantidade de trabalho necessaria para produzi-la. O exemplo classico e o do cacador: se para matar um castor e necessario o dobro do trabalho do que para matar um veado, entao um castor devera, naturalmente, ser trocado por dois veados.
+
+2. Teoria do Trabalho Comandado (Labor Commanded)
+Quando Smith passa a analisar a sociedade capitalista de sua epoca, ele percebe que a teoria do trabalho incorporado nao funciona mais. Numa economia com capitalistas e proprietarios de terras, o preco de uma mercadoria precisa cobrir nao apenas o trabalho direto do operario, mas tambem o lucro do capitalista e o aluguel do proprietario.
+
+Por isso, ele propoe uma segunda versao: o valor de uma mercadoria e igual a quantidade de trabalho que ela pode comprar ou "comandar" no mercado. Se o salario de um dia de trabalho e X, e uma mercadoria vale 10X, entao seu valor e igual a 10 dias de trabalho que ela pode "comandar". Em uma sociedade capitalista, o trabalho que uma mercadoria comanda e sempre maior do que o trabalho nela incorporado, sendo a diferenca composta pelos lucros e alugueis.
+
+Do Valor-Trabalho para a Teoria do Custo de Producao
+
+Diante da dificuldade de aplicar a teoria do trabalho incorporado ao capitalismo, Smith, na pratica, a abandona para explicar os precos correntes. Ele passa a defender que, em uma sociedade avancada, o "preco natural" de uma mercadoria e determinado pela soma de seus custos de producao:
+
+Preco Natural = Salarios + Lucros + Alugueis
+
+O preco de mercado pode flutuar em torno desse preco natural de acordo com a oferta e a demanda, mas e para ele que os precos sempre gravitam. Assim, Smith acaba adotando uma teoria do custo de producao para explicar os precos no capitalismo, deixando sua teoria do valor-trabalho como uma explicacao mais filosofica sobre a origem do valor ou como um modelo para uma sociedade pre-capitalista.
+
+A contribuicao de Adam Smith para a Teoria do Valor-Trabalho e fundamental, mas ambigua. Ele foi o primeiro a postular claramente que o trabalho e a medida real do valor. No entanto, sua dificuldade em aplicar a versao do "trabalho incorporado" a uma economia capitalista o levou a desenvolver a nocao de "trabalho comandado" e, finalmente, a se apoiar em uma teoria do custo de producao. Essa dualidade deixou um legado complexo: David Ricardo tentaria resolver essa inconsistencia e radicalizar a teoria do trabalho incorporado, enquanto Karl Marx a utilizaria como base para sua teoria da mais-valia.
+
+A Riqueza das Nações (Adam Smith) 
+
+Capítulo I: A Divisão do Trabalho
+
+O primeiro capítulo de "A Riqueza das Nações" introduz o conceito de que o maior aprimoramento nas forças produtivas do trabalho, bem como a maior parte da habilidade, destreza e bom senso na sua execução, são resultado da divisão do trabalho.
+
+Para ilustrar esse princípio, Adam Smith utiliza o exemplo de uma pequena manufatura de alfinetes. Ele observa que um operário não treinado para essa atividade e não familiarizado com as máquinas mal conseguiria produzir um alfinete por dia, e certamente não mais que vinte. No entanto, com a divisão do trabalho, a fabricação é segmentada em cerca de 18 operações distintas, como desenrolar o arame, endireitá-lo, cortá-lo, fazer a ponta, e colocar a cabeça. Em uma pequena fábrica com apenas dez empregados, onde cada um realizava duas ou três dessas operações, era possível produzir mais de 48 mil alfinetes por dia. Isso significa que cada pessoa produzia o equivalente a 4.800 alfinetes diariamente, uma produtividade imensamente superior à que teriam se trabalhassem de forma isolada e sem especialização.
+
+Smith argumenta que a vantagem da divisão do trabalho se aplica a todas as outras manufaturas, gerando um aumento proporcional na capacidade produtiva. Ele nota que a diferenciação de ocupações é maior nos países com maior grau de desenvolvimento. Na agricultura, porém, a natureza do trabalho não permite tantas subdivisões, pois as mesmas pessoas frequentemente realizam diversas tarefas como arar, semear e colher, de acordo com as estações do ano. Essa impossibilidade de uma separação completa das tarefas é a razão pela qual o aprimoramento da produtividade na agricultura não acompanha o ritmo das manufaturas.
+
+O autor aponta que o grande aumento na quantidade de trabalho que um mesmo número de pessoas pode realizar, devido à divisão do trabalho, deve-se a três circunstâncias principais:
+
+1.  Aumento da destreza de cada trabalhador: Ao reduzir a atividade de uma pessoa a uma única e simples operação, que se torna o principal emprego de sua vida, sua habilidade aumenta consideravelmente. Smith cita o exemplo de jovens ferreiros que, especializados em fazer pregos, conseguiam produzir mais de 2.300 pregos por dia, uma quantidade muito superior à de um ferreiro comum.
+
+2.  Economia de tempo: A vantagem de poupar o tempo que normalmente se perde ao passar de um tipo de trabalho para outro é significativa. Um trabalhador que precisa mudar de local, de ferramentas e de foco mental perde tempo e tende a se tornar indolente e preguiçoso, sendo incapaz de uma aplicação intensa mesmo em momentos de urgência.
+
+3.  Invenção de máquinas: A divisão do trabalho leva à invenção de um grande número de máquinas que facilitam e abreviam o trabalho. Quando a atenção de um trabalhador está focada em um único e simples objeto, é mais provável que ele descubra métodos mais fáceis e rápidos para executar sua tarefa. Smith menciona que muitas máquinas foram invenções de operários comuns que buscavam facilitar seu próprio trabalho. Além dos operários, a fabricação de máquinas tornou-se uma profissão específica, e os "filósofos ou pesquisadores" também contribuem ao combinar os poderes de objetos distintos.
+
+Essa multiplicação da produção em todos os ofícios, decorrente da divisão do trabalho, gera uma riqueza universal que se estende até as camadas mais baixas da população em uma sociedade bem governada. Cada trabalhador tem uma grande quantidade de seu próprio produto para vender, além do que necessita para si, e pode trocá-lo por uma grande quantidade de bens produzidos por outros, difundindo uma abundância geral por todas as classes sociais. Smith conclui o capítulo descrevendo como a produção das necessidades de um trabalhador comum, como seu casaco de lã, envolve a cooperação de uma vasta multidão de outros trabalhadores, desde pastores e fiandeiros até comerciantes e transportadores, demonstrando a interconexão e a complexidade da produção em uma sociedade civilizada.
+
+Capítulo II: O Princípio que Dá Origem à Divisão do Trabalho
+
+Neste capítulo, Adam Smith argumenta que a divisão do trabalho não é o resultado de alguma sabedoria humana que previu a riqueza que dela resultaria, mas sim a consequência necessária, lenta e gradual, de uma propensão natural da natureza humana: a de intercambiar, permutar ou trocar uma coisa pela outra.
+
+Smith afirma que essa propensão é exclusiva dos seres humanos e não é encontrada em nenhuma outra espécie de animal. Ele observa que ninguém jamais viu um cão fazer uma troca justa e deliberada de um osso com outro cão. Os animais obtêm o que querem de outros por meio da bajulação ou da força, mas o homem tem uma necessidade quase constante da ajuda de seus semelhantes, e seria inútil esperar essa ajuda apenas da benevolência alheia.
+
+O autor introduz um dos seus mais famosos argumentos: o papel do autointeresse (ou "auto-estima") nas trocas econômicas. Ele afirma que uma pessoa terá mais chance de conseguir a ajuda de outros se puder apelar ao seu autointeresse, mostrando que é vantajoso para eles fazerem o que ele pede. A proposta de qualquer negócio é: "Dê-me aquilo que eu quero, e você terá isto aqui, que você quer". Smith conclui com a célebre frase: "Não é da benevolência do açougueiro, do cervejeiro ou do padeiro que esperamos nosso jantar, mas da consideração que eles têm pelo seu próprio interesse. Dirigimo-nos não à sua humanidade, mas à sua auto-estima, e nunca lhes falamos das nossas próprias necessidades, mas das vantagens que advirão para eles".
+
+É essa mesma tendência à troca que, originalmente, gera a divisão do trabalho. Em uma tribo de caçadores, por exemplo, um indivíduo que é mais hábil em fazer arcos e flechas percebe que, ao se especializar nessa tarefa e trocar seus produtos por carne de caça, consegue obter mais sustento do que se ele mesmo fosse caçar. Guiado por seu próprio interesse, ele faz da fabricação de arcos sua ocupação principal, tornando-se uma espécie de armeiro. Da mesma forma, outros se especializam como carpinteiros, ferreiros ou curtidores de peles. A certeza de poder trocar o excedente de sua produção pelo produto do trabalho de outros incentiva cada pessoa a se dedicar a uma ocupação específica e a aperfeiçoar seus talentos.
+
+Smith também argumenta que a diferença de talentos naturais entre as pessoas é, na verdade, muito menor do que se pensa, e que a grande diferença de habilidades observada entre profissões distintas é mais um efeito do que a causa da divisão do trabalho. A diferença entre um filósofo e um carregador de rua, segundo ele, provém mais do hábito e da educação do que da natureza. Sem a propensão à troca, todos teriam as mesmas obrigações e não haveria uma grande diferença de ocupações que pudesse levar a uma grande diferença de talentos.
+
+Finalmente, é a propensão à troca que torna úteis as diferentes habilidades. Entre os animais, diferentes talentos (como a força de um mastim e a velocidade de um galgo) não beneficiam uns aos outros, pois não há capacidade de troca. Entre os homens, no entanto, os talentos mais díspares são úteis uns aos outros; as diferentes produções de suas respectivas habilidades são, por meio da troca, reunidas em um "cabedal comum", onde cada um pode comprar a parte que necessita do produto dos talentos de outras pessoas.
+
+Economia política
+Cenário econômico: Adam Smith, Ricardo e Malthus.
+Valor.
+Os passos individuais e o coletivo em grupo.
+
+Economia deriva do grego OIKONOMIA. OIKOS significa casa. NOMOS significa lei, "aquele que administra a lei".
+
+Ciência social que estuda a administração dos recursos escassos entre usos alternativos e fins competitivos (Paul Samuelson).
+Conceito que cuida da melhor administração dos recursos escassos disponíveis para satisfazer necessidades humanas (J. Pascoli Gastaldi).
+Ciência social focalizada em como o indivíduo e a sociedade decidem (escolher) empregar recursos produtivos escassos no padrão de bens (Wonnacott e Curric).
+
+Economia Política
+Estudo da riqueza das nações, tem seu foco na produção e distribuição.
+Controle de recursos até sujeição à política.
+Surge o estudo como desdobramento da filosofia.
+Médicos economistas fundadores ou precursores: William Petty e François Quesnay.
+Antecede um tempo grande demais, é pré científico, Fisiocratas.
+Mercantilismo (Séc XV a Séc XVIII), a terra como meio, o valor de troca.
+Expansão de terra e poder econômico que floresceram na Espanha de 1450 a 1750.
+Monopólios, regulação do estado, acúmulo de metais preciosos (ouro e riqueza).
+Desenvolvimento cultural e científico e redirecionamento comercial.
+Graduação. Hedonismo econômico como interesse humano. Próprio, vinculado pelos prazeres, o balanço é intencional, ideal do bem estar. Surgimento do Estado Moderno e expressões de condutas individuais.
+
+Tema: Mercantilismo Geral
+Mercantilismo: Estado Interventor, Balança comercial favorável, Comércio como principal atividade econômica, Metalismo (Bulionismo, medida de terra e capital), Colbertismo (França), Comercialismo (Inglaterra) e Protecionismo.
+Sociedade medieval/feudal essencialmente agrária.
+Primeira mudança: substituição da rotação de culturas ao invés de campos para não cansar, possibilitou avanço tecnológico mais importante da Idade Média, culminado na dissolução do feudalismo e o surgimento do capitalismo. Começo da produção agrária com baixa produtividade.
+Segunda mudança: Expansão populacional com crescimento dos centros urbanos e importância das feiras. Conexão de mercadorias. Desenvolvimento do comércio como principal desdobramento na sociedade medieval.
+Hunt & Sherman: o cadastro para o desenvolvimento de convívio foi usado pela transformação econômica ocorrida no interno da Europa.
+Heckscher (1985) é o principal autor da origem dos fatos, foi a formação de excedente de produção e o intercâmbio produtivo no mercado livre de servidão.
+História (mesmas cronologias de forma e expressão). Comércio com "ajuda" do mundo.
+Século XVI: os feudos asseguravam a disputa como principal atividade econômica.
+Verifica-se no século XVI na Europa.
+O mercado que se afirma e a mobilidade de mão de obra produtiva como brecha da propriedade de relações públicas e privadas, ordenavam a apropriação do tipo mais elevada pelos mercantis.
+Se o fornecedor de fato passa o artesão à produção, é o mesmo a compor cada vez mais o ciclo de um mesmo produtor.
+A primeira abordagem econômica do problema foi reformulada por William Petty.
+
+Dinheiro como meio de Circulação: M D M (Dinheiro Mercadoria Dinheiro) e D M D' (Dinheiro Mercadoria Dinheiro com lucro).
+Capitalismo.
+Preço diferente de Valor. O fim é um ciclo de produção com intuito de retorno.
+Para quem? Economia política: "Trabalho, valor e dinheiro". É o ramo da política interna para compreender a origem dos debates sociais que estavam surgindo no chão da antiga Inglaterra.
+Primeiro: Estudar a relação ser humano e natureza.
+Segundo: Categorias centrais para entender essas relações.
+Economia Política e Economia. Trabalho, valor e dinheiro.
+Economia é o estudo das leis sociais.
+Sociedade definida por sua estrutura interna de existência e reprodução social.
+Regularização do processo de trabalho.
+Diversidade do trabalho e decurso histórico da temporada com padrão social.
+Exige habilidades e conhecimentos, não é desprovido de sentido.
+Conduz a materiais de existência, percursos definidos, realidade social diferente.
+Forma, planejar e executar para ter domínio de imediato. A ação humana implica o desdobramento de suas formas de trabalho (mercadorias orientadas).
+Trabalho se distingue de qualquer outra atividade material.
+Trabalho é o padrão pela relação da sociedade entre sujeito e objeto.
+A percepção do trabalho, não pelo que está materialmente no sujeito, implica um movimento individual de um plano objetivo. A transformação intencional da natureza é milenar.
+Trabalho coletivo como objetificação da riqueza.
+
+Trabalho tem valor cativo. Trocas controladas pelas guildas.
+O trabalho implica relação indivíduo/ser humano com a natureza e portanto determina o ser social.
+"Em lugar do trabalho foi a humanidade, segundo Durkheim".
+Sociedade não se resume a sobreviver.
+"Fixa e qualifica o indivíduo em um sistema, adaptando o sistema da natureza".
+Nas formas de produção material, elas se sucessivam, se transformam e se modificam ao longo do sistema da humanidade.
+A espécie humana desenvolve e consolida um novo tipo de ser, não em virtude do desenvolvimento genético e biológico, mas por causa da complexidade de relações indivíduo/natureza e ser social.
+No processo de trabalho da humanidade, o trabalho passa a ser determinado pela compreensão do indivíduo de ser social.
+Espécie humana: intencional, racional, final, de representação biológica (mediada por reflexos, instintos, hormônios e formas). Diferente e mais complexa que os pulsos e instintos animais.
+Processo de hominização: desenvolvimento do ser social através do trabalho.
+Homem como natureza historicamente transformada.
+Soluções do ser social: 1. Pedra lascada e ossos; 2. Objetos naturais e culturais; 3. Comunicação pela linguagem articulada.
+O ser social sempre cria estruturas e pode escolher, é um exercício de liberdade.
+Prazer, ser social e subsistência.
+O aprofundamento do ser social implica a superação de uma base de naturalidade, dita um percurso de trabalho e o uso das formas de explicação. Ser social é mais sofisticado.
+A relação com o ser social se mede pela pele, pois considera estímulos internos e externos.
+
+Trabalho na modernidade
+"Onde domina e mostra o objeto real é que o ser social é um ser de trabalho".
+Alienação é o porquê das necessidades e de ter vergonha da divisão social do trabalho. Propriedade privada dos meios de produção. Alienação porque o conjunto das relações sociais. Nova expressão e ideias de toda a sociedade.
+
+Instruções de estudo:
+1. Leitura das páginas 94 a 95 do texto (15 min).
+2. Elaborar um fichamento em segunda pessoa, destacando a pergunta essencial do autor, utilizar citações "longas, jamais 'quebradas' por impressão!".
+3. Trabalho em grupo com no máximo 3 páginas.
+
+Objeto do trabalho e objeto do trabalho
+Transformação como objetivo capitalista gera mercadorias.
+Ser humano dependente da lógica do capital, incluindo esforço mental.
+Impasses da palavra de Lênin: colocar no trabalho.
+Adam Smith funda o liberalismo: liberal e liberalismo clássico, com a promoção do bem estar.
+
+Quais os marcos principais para o estudo:
+1) Fase pré científica
+a) Idade Antiga: Grécia e Roma e o trabalho sobre a escravidão por pecado e força pública (Aristóteles, Platão).
+b) Mercantilismo (de 1450 a 1750): Gladiador social, acumulação de riqueza de uma nação (comércio exterior e aumento de poder bélico).
+c) Fisiocracia ou liberalismo agrário (de 1750 a 1776): os principais ingleses que esboçaram uma explicação do funcionamento do sistema econômico foram as escolas Fisiocrata, Clássica e Neoclássica.
+
+Princípios do liberalismo
+Liberalismo, individualismo e o desejo de capitalismo.
+Liberalismo econômico, liberdade formal de propriedade, processo prometido para o futuro.
+Forças de mercado competitivas criariam a produção de bens, distribuindo-os (mão invisível).
+Seres humanos guiados pelo auto interesse (egoísmo) como fundamento teórico da doutrina do laissez faire.
+Produtores e vendedores usam o lucro.
+Trabalhadores e consumidores visam obter salários para usufruir e ter satisfação de suas necessidades.
+Trabalho como fonte e medida de riqueza e de valor.
+Adam Smith não presume deslealdade, mas um nível de equilíbrio pelo interesse.
+Defensores do mercantilismo versus liberalismo: Ambos veem fonte de riqueza e valor.
+Liberalismo: Tem poder de riqueza e valor.
+Mercantilismo: é riqueza monetária, é meio internacional porque o mercado é autorregulado.
+
+Precursor da economia política: William Petty (1623 1687).
+Autor da obra "Anatomia política" (The Prince) na Inglaterra, onde foi questionador, famoso e inovador, antes de entrar para a universidade.
+Médico, poeta, estatístico e economista. Estudava medicamentos, necessidade de receitas, anatomia, paz e a fé.
+Considerado precursor do estudo de demografia por sua análise de termos de nascimento e mortalidade, chegando a pintar um quadro populacional.
+Criador de estatística pública e de seus métodos, mensurava sobre as coisas sobre o governo (fiscal).
+Adepto do experimentalismo. Ênfase no sensorial e na precisão.
+Teoria do valor do trabalho. Precursor para o liberalismo e também pelo princípio do trabalho e do emprego.
+
+Escassez de grãos e a troca do excesso com os Fisiocratas. Mercado de grãos nas cidades.
+Teoria do preço (taxa de juros).
+Resultado do equilíbrio de mercado, depende da quantidade de oferta e de procura.
+Preço efetivo é o preço composto pelos salários, lucro e renda; o mesmo se aplica para o produto de mercado.
+Preço corrente expresso do preço em unidades monetárias.
+
+Richard Cantillon (1680 1734).
+Irlandês, enriqueceu na França e se estabeleceu na Espanha durante a Guerra de Sucessão como banqueiro do Tesouro (pagou ao exército Inglês).
+Banqueiro, fornecendo em 1712 e 1720 para especulação financeira.
+Dentre outros meios de acumulação de capital na sua terra, e colônia.
+Distingue grupos sociais por sua função no processo produtivo e na partilha do produto.
+Teoria do valor e da riqueza.
+Renda não pela prática do estabelecimento ou circulação para este quesito.
+A propósito de Cantillon e Locke, de inspiração para os americanos: como pode ser partilhada uma oligarquia sobre terra e o fato de haver a propriedade da terra e o devido direito da população de se produzir.
+Observação: "Ensaio sobre a Natureza do Comércio (geral)".
+
+Fisiocracia: Terra como fonte de riqueza.
+Século XVIII, reação ao Mercantilismo.
+A burguesia acreditava em bens materiais com ajuda da natureza e atividades econômicas como o trabalho, o juro e o mercado.
+Terra como fonte de riqueza.
+Obra "Tableau Economique" (quadro econômico) de François Quesnay.
+Expressa a visão da economia Fisiocrata governada pelo consumo produtivo que eles faziam enquanto enxergavam impostos burgueses que, apesar de serem detentores de poder, predominavam suas ideias mercantilistas.
+Fisiocracia: physis (natureza) mais kratos (poder), significando poder da natureza.
+
+Grupo de economistas franceses do século XVIII que acreditava que existe uma ordem natural das atividades econômicas; pelo pensamento, do mesmo modo se desdobra e segue rumo livre ao liberalismo econômico.
+François Quesnay (1694 1774).
+Médico da corte do Rei Luis XV (1710 1774). Sua obra econômica é de 1758.
+Procedeu em reunir diversos axiomas econômicos e relações entre diferentes classes e setores econômicos, e o fluxo de pagamentos entre eles.
+O principal proeminente é a ordem providencial (solidamente ligada à terra) que propõe a necessidade de se pensar na superação do regime agrário.
+
+1. Ordem natural
+Os fenômenos econômicos possuem vida e independência de qualquer objetivo interno, seguindo uma ordem imposta pela natureza e regida por leis naturais.
+(Ideia de equilíbrio e harmonia elaborado por volta do século XIX).
+Essa ordem se baseia no produtivo (agricultura) e apropriativo (ordem social e atividades econômicas).
+
+2. Ordem providencial
+A Ordem natural é uma ordem providencial pois é desejada por Deus.
+E por ser providencial é a melhor possível, e devendo ser descoberta pelo homem para obter a prosperidade econômica e social (em vez do destino liberal do laissez faire, laissez passer).
+O processo de produção e consumo devem ser estudados em conjunto.
+Financeira: riqueza regida por ordem providencial, divina.
+Direito de propriedade privada. Liberdade como parte de uma ordem natural. Economia como subsistência.
+Exercício: Smith, capítulos 1, 2, 3 e 4 do Livro I da Riqueza das Nações, e Capítulo V.
+
+Mercantilismo (Metal Precioso, Estado forte) e Fisiocracia (Terra, liberalismo).
+Liberalismo no século 18 como reação ao mercantilismo.
+Riqueza ideal do homem: Valor relativo.
+
+Adam Smith, 1723 1790.
+Nasceu em Kirkcaldy (Escócia). Pai era funcionário público e faleceu 3 meses após seu nascimento.
+Universidade de Glasgow (14 anos), estudou filosofia moral.
+Em 1740 foi professor na Universidade de Oxford.
+Era amigo de David Hume.
+Em 1751, aos 28 anos, assume como professor de Lógica em Glasgow.
+Sempre viveu com a mãe e uma tia. Faleceu em 17 de Julho de 1790.
+
+Base da reflexão de Smith:
+Quais fatores são responsáveis pela riqueza das nações?
+Como explicar a coesão social numa sociedade onde todos buscam o próprio bem estar?
+Em que direção caminha a sociedade?
+
+Teoria dos Sentimentos Morais (1759)
+Essa obra busca um plano divino no sentido da natureza e felicidade humana através dos sentimentos, mas que se encontra no balanço humano.
+"A simpatia, método que permite transformar paixões, e a imparcialidade definem a moralidade do homem, cujo desejo de receber aprovação conduz a uma moral de conduta".
+Recorre à ideia de simpatia para explicar como a convivência entre o homem e o fato de depender da coletividade.
+
+Não permite o benefício público. O que flui primariamente pelos pareceres e ordens é o altruísmo e o egoísmo.
+Sentimentos morais permitem regras de conduta que se impõem como se fossem ordens e decretos.
+Ações humanas referidas e cujo objetivo é o egoísmo e o altruísmo (competição).
+Na Teoria dos Sentimentos Morais, Smith descreve forças morais que permitem que pessoas vivam e só possam existir em sociedade.
+A compaixão da moral é a simpatia e a moralidade de merecer a aprovação do outro (alguém de fora).
+A felicidade de Deus é necessária, assim como o interesse de todos por ela.
+Prudência, egoísmo e altruísmo constituem a natureza das pessoas.
+Na Teoria dos Sentimentos Morais, Smith discute o mercado de forma moral.
+Felicidade baseada na segurança individual.
+Influência baseada no utilitarismo de Hume (a explicação das paixões morais reside na utilidade que elas tendem a promover).
+Na economia, a utilidade é obtida através do exercício do egoísmo.
+
+"A Riqueza da Nação" tem por objetivo demonstrar a possibilidade do egoísmo no esforço econômico, enfatizando o livre desenvolvimento das forças individuais no processo, de modo natural, como condição "sine qua non" para a formação e dependência da sociedade econômica.

@@ -1,0 +1,107 @@
+Macroeconomia: Conceitos e Relações
+
+A Economia no Dia a Dia
+A profissão do economista se relaciona com o dia a dia através das decisões e escolhas. Como nosso tempo e dinheiro são escassos, sempre que fazemos uma escolha, abrimos mão de outra coisa, o que representa o custo de oportunidade. Os preços são explicados pela oferta e demanda; o preço de um hotel sobe com muita chuva (pouca opção) e o de um show famoso é caro pela alta demanda. O comportamento humano também é objeto de análise: a reputação é um investimento e uma promoção no mercado é um incentivo para comprar. A inflação é um desafio central; no governo Sarney, a inflação foi contida, e o trabalho do economista é ordenar as escolhas nesse cenário.
+
+Contabilidade Social e o Fluxo Circular da Renda
+Para quantificar o produto de uma economia, usamos a Contabilidade Social. O modelo básico é o Fluxo Circular da Renda, com dois agentes: Famílias e Firmas. Existe um fluxo real, onde as famílias fornecem fatores de produção (como mão de obra) para as firmas, e as firmas fornecem bens e serviços para as famílias. E existe um fluxo monetário, onde as firmas pagam pela produção (remuneração dos fatores) e as famílias pagam pela compra de bens e serviços.
+
+As Três Óticas de Medição do Produto
+
+Existem três formas de medir o produto de uma nação:
+
+1. Ótica do Produto Nacional (PN): É a soma dos preços multiplicados pelas quantidades de todos os bens e serviços finais (Σ pi x qi). Para evitar a dupla contagem, calcula se o Valor Adicionado, que é o valor bruto da produção menos o consumo de insumos intermediários. Um bem intermediário é aquele que é consumido no processo produtivo, enquanto o bem de capital permanece.
+
+2. Ótica da Renda Nacional (RN): É a soma de todas as remunerações dos fatores de produção: Salários (w), Aluguéis (r), Juros (j) e Lucros (L). RN = w + r + j + L.
+
+3. Ótica da Despesa Nacional (DN): É a soma de todos os gastos dos agentes da economia. A fórmula geral é DN = C + I + G + (X M), onde C é consumo, I é investimento, G são gastos do governo, X são exportações e M são importações.
+
+Principais Agregados Macroeconômicos
+
+Produto a Preços de Mercado (pm) vs. Custo de Fatores (cf): O preço de mercado inclui impostos indiretos (Ti) e exclui subsídios (Sub). A fórmula é: PNpm = PNcf + Ti Sub.
+
+Produto Interno Bruto (PIB) vs. Produto Nacional Bruto (PNB): O PIB mede a produção dentro do território do país. O PNB leva em conta a renda enviada e recebida do exterior. A Renda Líquida de Fatores Externos (RLFE) é a diferença entre a renda recebida (RR) e a renda enviada (RE). A fórmula é: PNB = PIB + RLFE. Se o país envia mais renda do que recebe (RE > RR), o PNB é menor que o PIB. Se recebe mais do que envia (RE < RR), o PNB é maior que o PIB.
+
+Depreciação: É mencionada a relação PIB x PIL, que leva em conta a depreciação do capital.
+
+Poupança e Investimento
+A formação de capital na economia ocorre porque as famílias poupam e as firmas investem.
+Poupança (S) é a parte da renda que não é consumida: S = RN C.
+Investimento (I) é a ampliação da capacidade produtiva e a alocação produtiva de bens de capital. Inclui a Formação Bruta de Capital Fixo (FBKF) e a Variação de Estoques (ΔE).
+Numa economia fechada e sem governo, o equilíbrio ocorre quando Poupança é igual a Investimento (S=I), pois I = PN C e S = RN C.
+
+Identidades Nacionais em Economia Aberta com Governo
+Em um modelo mais completo, valem as seguintes identidades macroeconômicas:
+1. Produto Interno Bruto (PIB) = Despesa Interna Bruta (DIB) = Renda Interna Bruta (RIB).
+2. A Despesa é composta por: DIB = C + I + G + X M.
+3. A Renda é destinada para: RIB = C + S + T (Consumo, Poupança, Impostos).
+
+Igualando as duas, chegamos à identidade fundamental da macroeconomia:
+I = S + (T G) + (M X)
+O Investimento (I) é financiado pela Poupança Privada (S), pela Poupança do Governo (T G) e pela Poupança Externa (M X). A poupança externa é o saldo do balanço comercial, sendo positiva quando as importações superam as exportações (M>X).
+
+O Setor Externo
+O mercado de divisas (moeda estrangeira) funciona com oferta e demanda. Uma oferta maior que a demanda leva à queda do preço (taxa de câmbio), e uma demanda maior que a oferta leva ao aumento do preço. A oferta de divisas vem de exportações e entrada de capitais financeiros. A demanda vem de importações e aplicações no exterior.
+
+A relação entre a produção e o setor externo é dada por:
+PIB + M = C + I + G + X. O lado esquerdo é a oferta global de produtos disponíveis e o lado direito é a demanda.
+Se a Despesa Doméstica (E = C + I + G) é menor que o PIB, o país tem um superávit comercial (X > M). Se a despesa é maior que o PIB, há um déficit (X < M).
+
+Organização do Fluxograma Macroeconômico: O Fluxo Circular de Renda
+
+Este fluxograma descreve como a renda circula entre os principais agentes de uma economia: Famílias, Empresas, Governo e o Resto do Mundo.
+
+1. Relação entre Famílias e Empresas
+
+Fluxo Real:
+- As Famílias oferecem os fatores de produção (trabalho, capital, terra) para as Empresas.
+- As Empresas produzem e oferecem bens e serviços para as Famílias.
+
+Fluxo Monetário (contrapartida do Fluxo Real):
+- As Empresas pagam a remuneração dos fatores de produção (salários, lucros, aluguéis) para as Famílias.
+- As Famílias usam sua renda para o consumo de bens e serviços vendidos pelas Empresas.
+
+2. Papel do Governo
+
+Arrecadação (retira do fluxo):
+- O Governo arrecada impostos diretos das Famílias.
+- O Governo arrecada impostos indiretos das Empresas.
+
+Gastos (injeta no fluxo):
+- O Governo realiza compras de bens e serviços das Empresas.
+- O Governo realiza transferências de renda para as Famílias (ex: programas sociais).
+- O Governo concede subsídios para as Empresas.
+
+3. O Mercado Financeiro (Poupança e Investimento)
+
+Vazamentos (saídas do fluxo de consumo):
+- Poupança Privada: Parte da renda que as Famílias não consomem.
+- Poupança do Governo: O que sobra da arrecadação de impostos após os gastos e transferências.
+
+Injeções (entradas no fluxo de produção):
+- Investimento: As Empresas tomam recursos do mercado financeiro (acumulados pela poupança) para investir, o que representa a taxa de formação de capital.
+
+4. Relação com o Resto do Mundo (Economia Aberta)
+
+- Este é o 4º ator do fluxo.
+- Vazamento: O dinheiro que sai do país para pagar pelas importações (M).
+- Injeção: O dinheiro que entra no país através das exportações (X).
+
+Notas, Fórmulas e Conceitos Adicionais
+
+Aqui estão as outras anotações presentes na imagem, que complementam o entendimento do fluxograma.
+
+Identidade Macroeconômica Fundamental (Equação de Poupança e Investimento):
+I = S + (T - G) + (M - X)
+Onde:
+I: Investimento
+S: Poupança privada (das famílias)
+(T - G): Poupança do governo (Tributos menos Gastos)
+(M - X): Poupança externa (Importações menos Exportações). Representa os recursos externos necessários para financiar o investimento.
+A anotação RLFE (provavelmente Renda Líquida de Fatores Externos) aponta para este componente.
+
+Definições de Carga Tributária:
+CTB (Carga Tributária Bruta): Total de impostos diretos e indiretos arrecadados.
+CTL (Carga Tributária Líquida): É a Carga Tributária Bruta (soma dos impostos diretos e indiretos) deduzida das transferências e subsídios.
+
+- "Poupança não são salários".
